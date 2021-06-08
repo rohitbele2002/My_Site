@@ -1,0 +1,135 @@
+body {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1500;
+    text-align: center;
+    margin: 0px;
+    padding-top: 0px;
+    font-size: 18px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+
+}
+.chicken{
+    width: 25%;
+    float: right;
+    padding: 20px;
+}
+
+.contact-me {
+    margin: 50px 0 50px 0;
+    
+}
+.design{
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+
+hr {
+  border: dotted  #eaf6f6  6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto 100px auto;
+}
+
+
+h1 {
+    color: #66bfbf;
+    font-size: 100px;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #66bfbf;
+    font-size: 42px;
+    padding-top: 0;
+    font-family: 'Helvetica', serif;
+    font-weight: 5;
+    padding-bottom: 20px;
+
+}
+
+h3 {
+    color: #66bfbf;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 6;
+}
+.intro{
+    width: 40%;
+    color:black;
+    margin:auto;
+}
+
+.middle-container {
+    margin: 0px 200px 0px 200px;
+}
+p{
+    line-height: 2;
+}
+
+.profile {
+    padding: 100px;
+}
+
+.skills {
+    display: inline-block;
+    margin: 20px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-container {
+    
+    background-color: #e4f9f5;
+    margin-bottom: 0px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 300px;
+    top: 40px;
+}
+
+.bottom-container {
+
+    background-color: #66bfbf;
+    color: #11999E;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.btn {
+    -webkit-border-radius: 32px;
+    -moz-border-radius: 32px;
+    border-radius: 32px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 22px;
+    font-weight: 800;
+    padding: 19px;
+    background-color: #3D94F6;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #FFFFFF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
